@@ -1,2 +1,10 @@
 Collaboration Demo Project
 Version 1.0
+
+This file (app.txt) contains basic information about the application used in the Collaboration Demo Project. The purpose of this project is to practice working with Git and GitHub in a collaborative environment.
+
+The application itself is intentionally simple; Because it's for Jadi's Git course in maktabkhooneh! Its main goal is not to provide complex functionality, but to serve as a shared file where contributors can practice making changes, committing updates, and collaborating through pull requests.
+
+Contributors may update this file to simulate feature additions, improvements, or documentation changes. This helps demonstrate common Git workflows such as branching, merging, resolving conflicts, and reviewing changes.
+
+By modifying and extending this file, participants can gain practical experience with version control and better understand how multiple developers work together on the same project.
